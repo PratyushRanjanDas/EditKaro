@@ -41,6 +41,9 @@ EditKaro/
    ```bash
    git clone https://github.com/YourUsername/EditKaro.git
 
+2. Deployment:
+    https://editkaro-portfolio-by-pratyushrd.netlify.app/
+
 👨‍💻 Author
 <img width="1680" height="1050" alt="Screenshot 2025-08-15 at 9 09 04 PM" src="https://github.com/user-attachments/assets/2d6cae69-ee5c-46c8-82c3-811f0a0690a3" />
 
